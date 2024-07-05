@@ -1,0 +1,15 @@
+
+<nav class="navbar navbar-dark" style="background-color: #3f51b5; box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+">
+  <div class="container-fluid">
+    <a class="navbar-brand" routerLink="dashboard">Task Manager Application</a>
+    <form class="d-flex" role="search">
+      <div class="dropdown">
+        <mat-icon>supervised_user_circle</mat-icon>
+        <div class="dropdown-content">
+          <a (click)="logout()"><mat-icon>exit_to_app</mat-icon> Log Out</a>
+        </div>
+      </div>
+    </form>
+  </div>
+</nav>

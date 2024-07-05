@@ -1,0 +1,51 @@
+.mdc-data-table__table {
+    border: 1px solid #dddcdc;
+}
+/* .ng-star-inserted {
+    background-color: #e8e8e8 !important;
+} */
+
+.badge {
+    display: inline-block;
+    padding: 0.25em 0.4em;
+    font-size: 75%;
+    font-weight: 700;
+    line-height: 1;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: 0.375rem;
+  }
+  .badge.bg-success {
+    background-color: #28a745;
+  }
+  
+  .badge.bg-secondary {
+    background-color: #6c757d;
+  }
+  
+  .badge.bg-info {
+    background-color: #17a2b8;
+  }
+  
+  .badge.bg-warning {
+    background-color: #ffc107;
+  }
+  
+  .badge.bg-primary {
+    background-color: #007bff;
+  }
+  
+  .badge.bg-light {
+    background-color: #f8f9fa;
+  }
+  
+  .badge.bg-danger {
+    background-color: #dc3545;
+  }
+  
+  .badge.bg-dark {
+    background-color: #343a40;
+  }
+  
+  

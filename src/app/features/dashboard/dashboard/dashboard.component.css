@@ -1,0 +1,28 @@
+.box-section .card-body .icon mat-icon {
+    color: #3f51b5;
+    font-size: 60px;
+    height: 55px;
+    width: 55px;
+    position: relative;
+    left: 0px;
+    top: 4px;
+}
+
+.box-section .card-body .icon.green mat-icon {
+    color: green;
+
+}
+
+.box-section .card-body .icon.bgwarning mat-icon {
+    color: #ffc107;
+
+}
+
+.box-section .card-body .icon.bgprimary mat-icon {
+    color: #007bff;
+
+}
+
+.box-section .card-body .text span {
+    color: #7f7f7f;
+}
